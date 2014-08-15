@@ -1,4 +1,4 @@
-name    'drush'
+name    'puphpet-drush'
 version '1.0.0'
 author  'Puphpet'
 license 'Apache2'
