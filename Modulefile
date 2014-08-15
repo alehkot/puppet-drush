@@ -1,0 +1,6 @@
+name    'drush'
+version '1.0.0'
+author  'Puphpet'
+license 'Apache2'
+summary 'Puppet module for Drush'
+description 'This module installs and manages Drush'
